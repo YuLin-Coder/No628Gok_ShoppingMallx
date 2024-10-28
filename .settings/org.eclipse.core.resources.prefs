@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/home/CSS/main.css=UTF-8
+encoding//src/cn/gok/frontstageManagement/entity/PageBean.java=UTF-8
+encoding//src/cn/gok/util/CheckImgServlet.java=UTF-8
+encoding//src/cn/gok/util/EncodingFilter.java=UTF-8
+encoding//src/cn/gok/util/JDBCUtil.java=UTF-8
+encoding//src/cn/gok/util/JSONResult.java=UTF-8
+encoding/<project>=GBK
